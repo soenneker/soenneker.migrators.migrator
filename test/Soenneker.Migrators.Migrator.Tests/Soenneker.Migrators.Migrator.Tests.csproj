@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Migrators.Migrator.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Migrators.Migrator\Soenneker.Migrators.Migrator.csproj" />
     </ItemGroup>
 
     <ItemGroup>
