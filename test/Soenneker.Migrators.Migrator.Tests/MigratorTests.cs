@@ -1,11 +1,10 @@
-﻿using Soenneker.Tests.Unit;
-using Xunit;
+using Soenneker.Tests.Unit;
 
 namespace Soenneker.Migrators.Migrator.Tests;
 
 public sealed class MigratorTests : UnitTest
 {
-    [Fact]
+    [Test]
     public void Default()
     {
 
