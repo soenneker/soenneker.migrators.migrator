@@ -3,7 +3,7 @@ using Soenneker.Migrators.Migrator.Abstract;
 
 namespace Soenneker.Migrators.Migrator;
 
-///<inheritdoc cref="IMigrator"/>
+/// <inheritdoc cref="IMigrator"/>
 public abstract class Migrator : IMigrator
 {
     protected ILogger<Migrator> Logger { get; }
